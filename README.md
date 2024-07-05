@@ -1,4 +1,4 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Ismael Balladares Arroyo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ismael Balladares Arroyo
 ================================================================================================================================================
 
 Sobre mi
@@ -6,12 +6,12 @@ Sobre mi
 
 Hola, mi nombre es Ismael, actualmente tengo 21 años, resido en Perú y estoy cada día esforzándome por aprender y practicar, todo lo que tenga que ver con el desarrollo web, ya que es una rama muy amplia en el mundo de la programación. Al ser un programador Autodidacta me gusta desafiarme a mi mismo, actualmente me encuentro en busca de trabajo para demostrar todo lo aprendido en mi carrera como Programador, ya que me forme en el Instituto Superior Tecnológico TECSUP. Si deseas que te brinde mis servicios estoy al tanto de mi Gmail como de mi teléfono.
 
-* 🌍  Soy de Perú \- Trujillo
-* 🖥️  Visita mi portafolio [IsmaelBalladaresPortafolio](http://ismaelballadarescv2023.netlify.app)
-* ✉️  Contactate conmigo [is.balladaresarroyo@gmail.com](mailto:is.balladaresarroyo@gmail.com)
-* 🧠  Estoy aprendiendo React y Redux
-* 🤝  Estoy abierto a colaborar con cualquier empresa o persona que requiera una pagina web, elegante y de muy buen diseño
-* ⚡  Datos extras: Me gusta la musica, los perros, leer, practicar y descansar.
+* 🌍  I'm based in Perú \- Trujillo
+* 🖥️  See my portfolio at [IsmaelBalladaresPortafolio](http://ismaelballadarescv2023.netlify.app)
+* ✉️  You can contact me at [is.balladaresarroyo@gmail.com](mailto:is.balladaresarroyo@gmail.com)
+* 🧠  I'm learning React y Redux
+* 🤝  I'm open to collaborating on con cualquier empresa o persona que requiera una pagina web, elegante y de muy buen diseño
+* ⚡  Me gusta la musica, los perros, leer, practicar y descansar.
 
 ### Skills
 
@@ -21,21 +21,11 @@ Hola, mi nombre es Ismael, actualmente tengo 21 años, resido en Perú y estoy c
 p>
 
 
-### Redes Sociales
+### Socials
 
 <p align="left"> <a href="https://discord.com/users/spectreab" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> picture> a> <a href="https://www.github.com/IsmaelBalladares" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> picture> a> <a href="https://www.linkedin.com/in/ismael-angel-balladares-arroyo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> picture> a> <a href="https://www.stackoverflow.com/users/20496009/ismaelballadares" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> picture> a>p>
 
-### Badges
-
-<b>My GitHub Statsb>
-
-<a href="http://www.github.com/IsmaelBalladares"><img src="https://github-readme-stats.vercel.app/api?username=IsmaelBalladares&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IsmaelBalladares's GitHub stats" />a>
-
-<a href="http://www.github.com/IsmaelBalladares"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaelBalladares&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />a>
-
-<a href="https://github.com/IsmaelBalladares" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelBalladares&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />a>
-
-### Apoyame
+### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
