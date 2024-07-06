@@ -6,12 +6,12 @@ Sobre mi
 
 Hola, mi nombre es Ismael, actualmente tengo 21 años, resido en Perú y estoy cada día esforzándome por aprender y practicar, todo lo que tenga que ver con el desarrollo web, ya que es una rama muy amplia en el mundo de la programación. Al ser un programador Autodidacta me gusta desafiarme a mi mismo, actualmente me encuentro en busca de trabajo para demostrar todo lo aprendido en mi carrera como Programador, ya que me forme en el Instituto Superior Tecnológico TECSUP. Si deseas que te brinde mis servicios estoy al tanto de mi Gmail como de mi teléfono.
 
-* 🌍  I'm based in Perú \- Trujillo
-* 🖥️  See my portfolio at [IsmaelBalladaresPortafolio](http://ismaelballadarescv2023.netlify.app)
-* ✉️  You can contact me at [is.balladaresarroyo@gmail.com](mailto:is.balladaresarroyo@gmail.com)
-* 🧠  I'm learning React y Redux
-* 🤝  I'm open to collaborating on con cualquier empresa o persona que requiera una pagina web, elegante y de muy buen diseño
-* ⚡  Me gusta la musica, los perros, leer, practicar y descansar.
+* 🌍  Actualmente resido en Perú \ Trujillo
+* 🖥️  Visita mi portafolio [IsmaelBalladaresPortafolio](http://ismaelballadarescv2023.netlify.app)
+* ✉️  Puedes contactarme por [is.balladaresarroyo@gmail.com](mailto:is.balladaresarroyo@gmail.com)
+* 🧠  Actualmente estoy estudiando React y Redux
+* 🤝  Estoy abierto a colaborar con cualquier empresa o persona que requiera una pagina web, elegante y de muy buen diseño
+* ⚡  Otros datos: Me gusta la musica, la programación, los perros, leer, practicar y descansar.
 
 ### Skills
 
@@ -58,7 +58,7 @@ Hola, mi nombre es Ismael, actualmente tengo 21 años, resido en Perú y estoy c
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
     </picture>
   </a>
-  <a href="https://www.github.com/IsmaelBalladares" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/IsmaelBalladaresArroyo" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -85,7 +85,7 @@ Hola, mi nombre es Ismael, actualmente tengo 21 años, resido en Perú y estoy c
 <!--<a href="https://www.youtube.com/c/ismaelballadares" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>-->
 
-### Support Me
+### Colaborar(opcional)
 
 <ul style="list-style-type: none; margin: 0; padding: 0;">
   <li style="display: inline-block; margin-right: 0.25rem;">
