@@ -9,7 +9,7 @@ Hola, mi nombre es Ismael, actualmente tengo 21 años, resido en Perú y estoy c
 * 🌍  Actualmente resido en Perú \ Trujillo
 * 🖥️  Visita mi portafolio [IsmaelBalladaresPortafolio](http://ismaelballadarescv2023.netlify.app)
 * ✉️  Puedes contactarme por [is.balladaresarroyo@gmail.com](mailto:is.balladaresarroyo@gmail.com)
-* 🧠  Actualmente estoy estudiando React y Redux
+* 🧠  Actualmente estoy estudiando Java con SpringBoot
 * 🤝  Estoy abierto a colaborar con cualquier empresa o persona que requiera una pagina web, elegante y de muy buen diseño
 * ⚡  Otros datos: Me gusta la musica, la programación, los perros, leer, practicar y descansar.
 
